@@ -1,19 +1,31 @@
-# Frontend Mentor - QR code component solution
+# First Challenge QR  
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+## Description  
+This project is a **QR code card** design created as part of a **Frontend Mentor** challenge. The goal was to build a **clean and minimalistic card design** to display a QR code. It uses **HTML** and **CSS** to create a simple, user-friendly layout that’s fully responsive.  
 
+## Solution Link  
+[GitHub - First Challenge QR](https://github.com/Aleji0309/proyectaFirstChallengeQR)  
 
-- [Author](#Ale Jiménes)
-
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
+## Live Site Link  
+[Live View](https://proyectafirstchallengeqr.netlify.app/)  
 
 
-## Author
+## FrontEnd Mentor
+- [@Aleji0309](https://www.frontendmentor.io/profile/Aleji0309)
 
-- Website - [Ale Jiménez](https://proyectafirstchallengeqr.netlify.app/)
-- Frontend Mentor - [@Aleji0309](https://www.frontendmentor.io/profile/Aleji0309)
+
+## Technologies Used  
+- HTML  
+- CSS  
+
+## What I Learned  
+This project helped me improve my skills in **structuring simple layouts** and using **CSS** to style elements in a **responsive** way. I also learned how to create a **centered design** and worked with **box model** properties to make the QR code card visually appealing.  
+
+## Ongoing Development  
+I plan to continue working on improving **accessibility** and adding more features, such as **animations** or **hover effects**, to enhance the user experience.
+
+## Author  
+Ale Leandro Jiménez  
+
+ 
 
